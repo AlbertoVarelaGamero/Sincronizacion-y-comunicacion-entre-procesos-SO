@@ -1,3 +1,3 @@
-# Sincronizacion-y-comunicacion-entre-procesos-SO
+# Sincronizacion-y-comunicacion-entre-procesos
 
-https://github.com/AlbertoVarelaGamero/Sincronizacion-y-comunicacion-entre-procesos-SO
+https://github.com/AlbertoVarelaGamero/Sincronizacion-y-comunicacion-entre-procesos
